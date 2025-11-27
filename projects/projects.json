@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Rajmani Jewellers Android",
+    "desc": "A jewellery shopping app built with React Native, MongoDB, and Firebase.",
+    "image": "rajmani",
+    "category": "android",
+    "links": {
+      "view": "https://play.google.com/store/search?q=rajmani+jewellers&c=apps&hl=en",
+      "code": "https://github.com/harshal9503/Rajmani-Jewellers"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Property's Bazar Android",
+    "desc": "A real estate app for buyers and sellers built with React Native, TypeScript, Laravel, and MongoDB.",
+    "image": "property",
+    "category": "android",
+    "links": {
+      "view": "https://play.google.com/store/apps/details?id=com.propertysbazar&hl=en",
+      "code": "https://github.com/harshal9503/RealState"
+    } 
+  },
+  {
+    "id": 3,
+    "name": "Second Income Android",
+    "desc": "A wealth management app built using React Native, Laravel PHP, and MongoDB.",
+    "image": "second",
+    "category": "android",
+    "links": {
+      "view": "https://play.google.com/store/apps/details?id=com.Second.income&hl=en",
+      "code": "https://github.com/harshal9503/"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Jaat Enterprises Website",
+    "desc": "A modern business website built with React.js for fast and responsive performance.",
+    "image": "jaat",
+    "category": "mern",
+    "links": {
+      "view": "https://jaatenterprises.com/",
+      "code": "https://jaatenterprises.com/"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Ved Tour and Travels Website",
+    "desc": "A responsive travel business website built using React.js with a clean UI.",
+    "image": "ved",
+    "category": "mern",
+    "links": {
+      "view": "https://vedtourandtravels.in/",
+      "code": "https://vedtourandtravels.in/"
+    }
+  },
+  {
+    "id": 6,
+    "name": "VyanWebs Website",
+    "desc": "A professional company website built with React.js for smooth and fast browsing.",
+    "image": "vyanwebs",
+    "category": "mern",
+    "links": {
+      "view": "https://www.vyanwebs.com/",
+      "code": "https://www.vyanwebs.com/"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Rajmani Jewellers Website",
+    "desc": "A jewellery business website built using React.js with a polished and responsive UI.",
+    "image": "rajmaniweb",
+    "category": "mern",
+    "links": {
+      "view": "https://rajmanijewellers.in/",
+      "code": "https://rajmanijewellers.in/"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Rajmani Jewellers Website",
+    "desc": "A lightweight jewellery website built with React.js for fast and clean performance.",
+    "image": "rajmaniweb",
+    "category": "basicweb",
+    "links": {
+      "view": "https://rajmanijewellers.in/",
+      "code": "https://rajmanijewellers.in/"
+    }
+  }
+]
